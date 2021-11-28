@@ -1,13 +1,17 @@
 ---
-title: Say Hello to the world
-date: 2019-02-07
+title: rnose work
+date: 2021-11-28
 ---
 
-## Hello world
+## works
+1. 作曲 / アレンジメント / ジャズ・ギター / フラメンコ・ギター
+2. データサイエンス / 統計学 / プログラム
+3. 煎茶 / 中国茶
 
-Welcome to GitPress. This is your first post.
+## 
+作曲のご依頼・共作のお誘い ご連絡下さい。
 
-## Useful links
-
-- Website: https://gitpress.io
-- Getting Started: https://gitpress.io/c/help/welcome
+## 
+- spotify playlist:  
+- sound cloud: 
+- twitter:
